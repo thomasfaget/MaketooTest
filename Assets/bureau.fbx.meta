@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 2b170422f9b74d94db260cf63c2943aa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bureau 1
+    100002: //RootNode
+    100004: bureau_02
+    100006: clavier
+    100008: dossier
+    100010: dossier_haut
+    100012: ecrans
+    100014: enceinte
+    100016: piano
+    100018: pied_chaise
+    100020: sol
+    100022: souris
+    100024: support_chaise
+    100026: support_piano
+    100028: tapis
+    100030: touches
+    100032: tour
+    400000: bureau 1
+    400002: //RootNode
+    400004: bureau_02
+    400006: clavier
+    400008: dossier
+    400010: dossier_haut
+    400012: ecrans
+    400014: enceinte
+    400016: piano
+    400018: pied_chaise
+    400020: sol
+    400022: souris
+    400024: support_chaise
+    400026: support_piano
+    400028: tapis
+    400030: touches
+    400032: tour
+    2100000: lambert5
+    2100002: lambert1
+    2100004: lambert6
+    2100006: lambert4
+    2100008: lambert2
+    2100010: lambert3
+    2100012: lambert7
+    2100014: touche_blanche
+    2100016: touche_noir
+    2300000: bureau 1
+    2300002: bureau_02
+    2300004: clavier
+    2300006: dossier
+    2300008: dossier_haut
+    2300010: ecrans
+    2300012: enceinte
+    2300014: piano
+    2300016: pied_chaise
+    2300018: sol
+    2300020: souris
+    2300022: support_chaise
+    2300024: support_piano
+    2300026: tapis
+    2300028: touches
+    2300030: tour
+    3300000: bureau 1
+    3300002: bureau_02
+    3300004: clavier
+    3300006: dossier
+    3300008: dossier_haut
+    3300010: ecrans
+    3300012: enceinte
+    3300014: piano
+    3300016: pied_chaise
+    3300018: sol
+    3300020: souris
+    3300022: support_chaise
+    3300024: support_piano
+    3300026: tapis
+    3300028: touches
+    3300030: tour
+    4300000: clavier
+    4300002: touches
+    4300004: dossier
+    4300006: tapis
+    4300008: souris
+    4300010: enceinte
+    4300012: bureau
+    4300014: support_chaise
+    4300016: sol
+    4300018: ecrans
+    4300020: bureau_02
+    4300022: pied_chaise
+    4300024: dossier_haut
+    4300026: tour
+    4300028: piano
+    4300030: support_piano
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
